@@ -1,0 +1,1 @@
+Todos los ejercicios en JS los probe haciendo uso de la opción "Sources" que se encuentra en Google Chrome. 
